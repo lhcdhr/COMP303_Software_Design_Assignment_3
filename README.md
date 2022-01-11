@@ -1,5 +1,5 @@
 # Movie Library Version 3
-The 3th assignment of COMP303 Software Design.
+The 3rd assignment of COMP303 Software Design.
 ## Features
 1. The library - only one Library object is created during the lifetime of the application.  
 2. No Movie/TVShow objects share the same title.
