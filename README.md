@@ -7,6 +7,8 @@ The 3th assignment of COMP303 Software Design.
 ## Design
 Singleton - for library
 flyweight - for Movie abd TVShow
-
+## Diagram
+Class Diagram
+![alt text](https://github.com/lhcdhr/Movie-Library-V3-Software-Design/blob/main/cls%20dgm.class.png)
 
  
